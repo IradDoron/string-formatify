@@ -1,0 +1,22 @@
+{
+	"name": "string-formatify",
+	"version": "0.0.1",
+	"description": "Manipulate strings and change strings formats",
+	"main": "index.mjs",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/IradDoron/string-formatify.git"
+	},
+	"keywords": [
+		"strings"
+	],
+	"author": "Irad Doron",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/IradDoron/string-formatify/issues"
+	},
+	"homepage": "https://github.com/IradDoron/string-formatify#readme"
+}
